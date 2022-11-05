@@ -49,7 +49,7 @@ def main_func():
         counter += 1
         if counter > 8:
             board()
-            prin('Ничья!')
+            print('Ничья!')
             break
 
 
